@@ -11,6 +11,10 @@
 ## 👦🏻 About me
 - 🌱 **I'm currently looking for...** grow professional and personly.
 - 🎓 **I'm currently studiying...** Application developer degree.
+- 📚 **Extra training**
+  - Universidad Java 2021, Udemy.
+  - Universidad Python. 2020. Udemy.
+  - Javascript. 2020. Udemy
 - 💓 **I'm love...**
   - 👪 The Family.
   - ✍ Write code.
@@ -21,7 +25,7 @@
   - 🛠️ Repair any broken thing.
   - 💧  Water control equipment.
 - 📖 **I'm currently learning...** Java, Spring Boot, Python, Docker, IA.
-- 
+
 - 🏁 **2021 goals:**
   - ✔ Get a job as developer.
   - ✔ Learn at a good level in Java and Python.
