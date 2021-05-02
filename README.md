@@ -35,11 +35,11 @@
 
 ## 📬 Connect with me:
 
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://t.me/clementeqp" target="_blank"><img src="img/contact/telegram.svg" width="50"></a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/clemente-quintana-pozo/" target="_blank"><img src="img/contact/linkedin.svg" width="50"></a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://fb.com/clementequintanapozo" target="_blank"><img src="img/contact/F_icon.svg" width="50"></a>
 
 
