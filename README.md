@@ -61,7 +61,6 @@
 [![SQLite](img/tech_icons/sqlite.svg)](#-my-tech-background)&nbsp;
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">[![SQLServer](img/tech_icons/sqlserver.svg)](#-my-tech-background)</a>
-
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a>
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 ### Tools
