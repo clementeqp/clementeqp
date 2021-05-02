@@ -5,7 +5,23 @@
 <h2 align="left">Hi 👋, I'm Clemente Quintana</h2>
 <h1 align="center">Desarrollador de Aplicaciones</h1>
 
-
+## 👦🏻 About me
+- 🌱 **I'm currently looking for...** grow professional and personly.
+- 🎓 **I'm currently studiying...** Application developer degree.
+- 💓 **I'm love...**
+  - 👪 The Family.
+  - ✍ Write code.
+  - 🎸 Play the guitar
+  - 🌼 Enjoy nature.
+  - 🍄 Collect mushrooms.
+  - ❓  Solve problems.
+  - 🛠️ Repair any broken thing.
+  - 💧  Water control equipment.
+- 📖 **I'm currently learning...** too much technologies and concepts!😹 *API Rest, modern JS, Spring, Docker, React, Design patterns, etc*. Really, please, can somebody stop me?
+- 🏁 **2021 goals:**
+  - [ ] Get a job as web developer 
+  - [ ] Start contributing to open source projects
+  - [ ] Finish web development degree
 
 # - 💬 Ask me about **Java, Spring, Python.**
 
