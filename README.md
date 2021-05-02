@@ -9,19 +9,20 @@
 
 - 💬 Ask me about **Java, Spring, Python.**
 
-<h3 align="left">Connect with me:</h3>
+## 📬 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/clemente-quintana-pozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="clemente-quintana-pozo" height="30" width="40" /></a><br/>
 <a href="https://fb.com/clementequintanapozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="clementequintanapozo" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/fjavierlh/" target="_blank">![Instagram](img/contact/instagram.svg)</a>
 </p>
 
-## 📬 Contact me
+ Contact me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/fjavierlh" target="_blank">![LinkedIn](img/contact/linkedin.svg)</a>
+<a href="https://www.linkedin.com/in/clemente-quintana-pozo" target="_blank">![LinkedIn](img/contact/linkedin.svg)</a>
 &nbsp;
-<a href="https://t.me/fjavierlh" target="_blank">![Telegram](img/contact/telegram.svg)</a>
+
 &nbsp;
-<a href="https://www.instagram.com/fjavierlh/" target="_blank">![Instagram](img/contact/instagram.svg)</a>
+
 
 ## 🎒 My tech background
 ### Languages
