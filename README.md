@@ -19,9 +19,9 @@
   - 💧  Water control equipment.
 - 📖 **I'm currently learning...** too much technologies and concepts!😹 *API Rest, modern JS, Spring, Docker, React, Design patterns, etc*. Really, please, can somebody stop me?
 - 🏁 **2021 goals:**
-  - [ ] Get a job as web developer 
-  - [ ] Start contributing to open source projects
-  - [ ] Finish web development degree
+  - [ ] Get a job as developer.
+  - [ ] Learn at a good level in Java and Python.
+  - [ ] Finish web development degree.
 
 # - 💬 Ask me about **Java, Spring, Python.**
 
