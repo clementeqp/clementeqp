@@ -36,10 +36,8 @@
 ## 📬 Connect with me:
 
 
-<a href="https://t.me/clementeqp" target="_blank"><img src="img/contact/telegram.svg" width="50"></a>
-
+<a href="https://t.me/clementeqp" target="_blank"><img src="img/contact/telegram.svg" width="50">&nbsp;&nbsp;</a>
 <a href="https://www.linkedin.com/in/clemente-quintana-pozo/" target="_blank"><img src="img/contact/linkedin.svg" width="50"></a>
-
 <a href="https://fb.com/clementequintanapozo" target="_blank"><img src="img/contact/F_icon.svg" width="50"></a>
 
 
@@ -64,7 +62,7 @@
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a>
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 ### Tools
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
