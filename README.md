@@ -11,14 +11,11 @@
 
 ## 📬 Connect with me:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/clementequintanapozo" target="_blank">![LinkedIn](img/contact/F_icon.svg)</a>
 &nbsp;
 <a href="https://t.me/clementeqp" target="_blank">![Telegram](img/contact/telegram.svg)</a>
 &nbsp;
 <a href="https://www.instagram.com/clemente-quintana-pozo/" target="_blank">![Instagram](img/contact/instagram.svg)</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://fb.com/clementequintanapozo" target="_blank">![LinkedIn](img/contact/F_icon.svg)</a>
 
 
