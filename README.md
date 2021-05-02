@@ -14,7 +14,7 @@
 &nbsp;
 <a href="https://t.me/clementeqp" target="_blank"><img src="img/contact/telegram.svg" width="100"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/clemente-quintana-pozo/" target="_blank"><img src="img/contact/linkedyn.svg" width="100"></a>
+<a href="https://www.linkedin.com/in/clemente-quintana-pozo/" target="_blank"><img src="img/contact/linkedin.svg" width="100"></a>
 &nbsp;
 <a href="https://fb.com/clementequintanapozo" target="_blank"><img src="img/contact/F_icon.svg" width="100">)</a>
 
