@@ -20,7 +20,8 @@
   - ❓  Solve problems.
   - 🛠️ Repair any broken thing.
   - 💧  Water control equipment.
-- 📖 **I'm currently learning...** too much technologies and concepts!😹 *API Rest, modern JS, Spring, Docker, React, Design patterns, etc*. Really, please, can somebody stop me?
+- 📖 **I'm currently learning...** Java, Spring Boot, Python, Docker, IA.
+- 
 - 🏁 **2021 goals:**
   - ✔ Get a job as developer.
   - ✔ Learn at a good level in Java and Python.
