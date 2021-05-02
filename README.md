@@ -2,12 +2,10 @@
   <img align="center" src="https://user-images.githubusercontent.com/70778944/116804955-35d09800-ab23-11eb-8606-8ce11e19a1b5.jpg" alt="Clemente"  width="400" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Clemente Quintana</h1>
-<h3 align="center">Desarrollador de Aplicaciones</h3>
+<h2 align="left">Hi 👋, I'm Clemente Quintana</h2>
+<h1 align="center">Desarrollador de Aplicaciones</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clementeqp&label=Profile%20views&color=0e75b6&style=flat" alt="clementeqp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clementeqp" alt="clementeqp" /></a> </p>
 
 - 💬 Ask me about **Java, Spring, Python.**
 
@@ -60,3 +58,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clementeqp&show_icons=true&locale=en" alt="clementeqp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clementeqp&" alt="clementeqp" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clementeqp&label=Profile%20views&color=0e75b6&style=flat" alt="clementeqp" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clementeqp" alt="clementeqp" /></a> </p>
