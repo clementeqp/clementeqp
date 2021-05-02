@@ -11,16 +11,13 @@
 
 ## 📬 Connect with me:
 <p align="left">
-
-  &nbsp
-<a href="https://fb.com/clementequintanapozo" target="blank">![F_icon](img/contact/F_icon.svg)</a>
-  &nbsp
+&nbsp;
 <a href="https://fb.com/clementequintanapozo" target="_blank">![LinkedIn](img/contact/F_icon.svg)</a>
-  &nbsp
+&nbsp;
 <a href="https://www.linkedin.com/in/clemente-quintana-pozo" target="_blank">![LinkedIn](img/contact/linkedin.svg)</a>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 
