@@ -53,7 +53,7 @@
 [![Spring](img/tech_icons/spring.svg)](#-my-tech-background)&nbsp;
 [![Django](img/tech_icons/django.svg)](#-my-tech-background)&nbsp;
 [![Flask](img/tech_icons/flask.svg)](#-my-tech-background)&nbsp;
-[![Bootstrap](img/tech_icons/bootstrap.svg)](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>)&nbsp;
+![Bootstrap](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>)&nbsp;
 [![JQuery](img/tech_icons/jquery.svg)](#-my-tech-background)&nbsp;
 ### Databases
 [![SQLite](img/tech_icons/sqlite.svg)](#-my-tech-background)&nbsp;
