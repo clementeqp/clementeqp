@@ -41,7 +41,7 @@
 ## 🎒 My tech background
 ### Languages
 ![HTML](img/tech_icons/html.svg)
-[![CSS](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>)](#-my-tech-background)&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
 [![JavaScript](img/tech_icons/javascript.svg)](#-my-tech-background)&nbsp;
 [![Java](img/tech_icons/java.svg)](#-my-tech-background)&nbsp;
 [![Python](img/tech_icons/python.svg)](#-my-tech-background)&nbsp;
