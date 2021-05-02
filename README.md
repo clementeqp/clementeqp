@@ -61,12 +61,14 @@
 [![SQLServer](img/tech_icons/sqlserver.svg)](#-my-tech-background)&nbsp;
 [![Oracle](img/tech_icons/oracle.svg)](#-my-tech-background)&nbsp;
 ### Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 [![Docker](img/tech_icons/docker.svg)](#-my-tech-background)&nbsp;
 [![Azure](img/tech_icons/azure.svg)](#-my-tech-background)&nbsp;
 [![Maven](img/tech_icons/maven.svg)](#-my-tech-background)&nbsp;
 [![Git](img/tech_icons/git.svg)](#-my-tech-background)&nbsp;
 [![GitHub](img/tech_icons/github.svg)](#-my-tech-background)&nbsp;
 [![Vscode](img/tech_icons/vscode.svg)](#-my-tech-background)&nbsp;
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>
 <!--[![Eclipse](img/tech_icons/eclipse.svg)](#-my-tech-background)-->
 <!--[![Linux](img/tech_icons/linux.svg)](#-my-tech-background)-->
 <!--[![Bash](img/tech_icons/bash.svg)](#-my-tech-background)-->
