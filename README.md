@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/clemente-quintana-pozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="clemente-quintana-pozo" height="30" width="40" /></a><br/>
 <a href="https://fb.com/clementequintanapozo" target="blank">![FaceBook](img/contact/F_icon.svg)</a>
-<a href="https://www.instagram.com/fjavierlh/" target="blank">![Instagram](img/contact/instagram.svg)</a>
+<a href="https://www.linkedin.com/in/clemente-quintana-pozo" target="_blank">![LinkedIn](img/contact/linkedin.svg)</a>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
