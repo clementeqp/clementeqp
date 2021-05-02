@@ -45,7 +45,7 @@
 
 ## 🎒 My tech background
 ### Languages
-[![HTML](img/tech_icons/html.svg)]
+![HTML](img/tech_icons/html.svg)
 [![CSS](img/tech_icons/css.svg)](#-my-tech-background)&nbsp;
 [![JavaScript](img/tech_icons/javascript.svg)](#-my-tech-background)&nbsp;
 [![Java](img/tech_icons/java.svg)](#-my-tech-background)&nbsp;
