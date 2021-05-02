@@ -16,7 +16,6 @@
  <a href="https://www.instagram.com/fjavierlh/" target="_blank">![Instagram](img/contact/instagram.svg)</a>
 </p>
 
- Contact me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/clemente-quintana-pozo" target="_blank">![LinkedIn](img/contact/linkedin.svg)</a>
 &nbsp;
