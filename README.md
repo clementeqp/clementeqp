@@ -24,14 +24,17 @@
   - ❓  Solve problems.
   - 🛠️ Repair any broken thing.
   - 💧  Water control equipment.
-- 📖 **I'm currently learning...** Java, Spring Boot, Python, Docker, IA.
+- 📖 **I'm currently learning...** Java, Spring Boot, Python, JavaScript, React, Docker, IA.
 
 - 🏁 **2021 goals:**
   - ✔ Get a job as developer.
   - ✔ Learn at a good level in Java and Python.
   - ✔ Finish web development degree.
 
-# - 💬 Ask me about **Java, Spring, Python.**
+# - 💬 Ask me about **Java, Spring, Python, React.**
+
+## 👀 Look at my projects:
+  - [ToDoApp: App made in React.] (https://clementeqp.github.io/ToDoApp/) 
 
 ## 📬 Connect with me:
 
