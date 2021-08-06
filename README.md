@@ -34,7 +34,8 @@
 # - 💬 Ask me about **Java, Spring, Python, React.**
 
 ## 👀 Look at my projects:
-  - [ToDoApp: App made in React.] (https://clementeqp.github.io/ToDoApp/) 
+  - [ToDoApp: App made in React.](https://clementeqp.github.io/ToDoApp/) 
+  - [TodoApp](https://clementeqp.github.io/ToDoApp/)
 
 ## 📬 Connect with me:
 
