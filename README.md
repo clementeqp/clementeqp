@@ -8,6 +8,10 @@
 <h2 align="left">Hi 👋, I'm Clemente Quintana</h2>
 <h1 align="center">Desarrollador de Aplicaciones</h1>
 
+## My CV
+
+[Curriculum Vitae](https://github.com/clementeqp/CV/blob/5b9940f38f242c7de528c3fa2d897c1ccd57d85a/Clemente_Quintana_Pozo_IT.pdf)
+
 ## 👦🏻 About me
 - 🌱 **I'm currently looking for...** grow professional and personly.
 - 🎓 **I'm currently studiying...** Application developer degree.
