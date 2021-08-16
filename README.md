@@ -38,7 +38,7 @@
 # - 💬 Ask me about **Java, Spring, Python, React.**
 
 ## 👀 Look at my projects:
-  - [Buscador de Gifs](https://clementeqp.github.io/ToDoApp/) Divierte buscando tus gifs favoritos.
+  - [Buscador de Gifs](https://clementeqp.github.io/buscaGifs-react/) Divierte buscando tus gifs favoritos.
   - [Frases Breaking Bad](https://clementeqp.github.io/Breaking-Bad/) Conexion API Breaking Bad
   - [ToDoApp.](https://clementeqp.github.io/ToDoApp/) Gestor de tareas.
  
