@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="left">Hi 👋, I'm Clemente Quintana</h2>
-<h1 align="center">Desarrollador de Aplicaciones</h1>
+<h1 align="center">Desarrollador de Aplicaciones Multiplataforma</h1>
 
 ## My CV
 
