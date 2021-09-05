@@ -38,6 +38,8 @@
 # - 💬 Ask me about **Java, Spring, Python, React.**
 
 ## 👀 Look at my projects:
+
+  - [CRUD Python, React y Mongodb](https://clementeqp.github.io/crud-front/)
   - [Buscador de Gifs](https://clementeqp.github.io/buscaGifs-react/) Divierte buscando tus gifs favoritos.
   - [Frases Breaking Bad](https://clementeqp.github.io/Breaking-Bad/) Conexion API Breaking Bad
   - [ToDoApp.](https://clementeqp.github.io/ToDoApp/) Gestor de tareas.
