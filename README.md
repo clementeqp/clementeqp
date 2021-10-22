@@ -75,19 +75,21 @@
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 ### Tools
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
+<!--<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
- <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
- <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <!--<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
+<!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
+ <!--<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp; </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
 [![Maven](img/tech_icons/maven.svg)](#-my-tech-background)&nbsp;
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
+<!--<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
 [![GitHub](img/tech_icons/github.svg)](#-my-tech-background)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Vscode](img/tech_icons/vscode.svg)](#-my-tech-background)&nbsp;
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img src="https://img.icons8.com/office/40/000000/java-eclipse.png"/>
 
 
 <p align="left">                  </p>
