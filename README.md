@@ -63,7 +63,8 @@
 ### Frameworks
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
 <!--<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
 ### Databases
@@ -72,6 +73,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">[![SQLServer](img/tech_icons/sqlserver.svg)](#-my-tech-background)&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 ### Tools
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
