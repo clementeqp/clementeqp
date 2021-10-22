@@ -75,7 +75,7 @@
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 ### Tools
-<p>
+
 <!--<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>
  <!--<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;</a>-->
@@ -91,7 +91,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/office/40/000000/java-eclipse.png"/>
-</p>
+
 
 <p align="left">                  </p>
 <!--[![Eclipse](img/tech_icons/eclipse.svg)](#-my-tech-background)-->
