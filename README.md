@@ -10,7 +10,7 @@
 
 ## My CV
 
-- [Curriculum Vitae](https://github.com/clementeqp/CV/blob/5b9940f38f242c7de528c3fa2d897c1ccd57d85a/Clemente_Quintana_Pozo_IT.pdf)
+- [Curriculum Vitae](https://github.com/clementeqp/CV/blob/master/Clemente_Quintana_Pozo.pdf)
 
 ## 👦🏻 About me
 - 🌱 **I'm currently looking for...** grow professional and personly.
