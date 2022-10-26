@@ -94,19 +94,3 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/office/40/000000/java-eclipse.png"/>
-
-
-<p align="left">                  </p>
-<!--[![Eclipse](img/tech_icons/eclipse.svg)](#-my-tech-background)-->
-<!--[![Linux](img/tech_icons/linux.svg)](#-my-tech-background)-->
-<!--[![Bash](img/tech_icons/bash.svg)](#-my-tech-background)-->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clementeqp&show_icons=true&locale=en&layout=compact" alt="clementeqp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clementeqp&show_icons=true&locale=en" alt="clementeqp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clementeqp&" alt="clementeqp" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clementeqp&label=Profile%20views&color=0e75b6&style=flat" alt="clementeqp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clementeqp" alt="clementeqp" /></a> </p>
